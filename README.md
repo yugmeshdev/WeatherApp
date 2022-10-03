@@ -1,1 +1,2 @@
 # WeatherApp
+Use master branch
